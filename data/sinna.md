@@ -183,3 +183,133 @@ git add .
 git commit -m "Initial repository setup"
 # git remote add origin https://github.com/AMIDHRP/ZomiLanguage.git
 # git push -u origin main
+
+
+# Example structure for Zomi-English parallel data files
+
+# Sample structure for train.tsv and test.tsv
+"""
+zomi_text\tenglish_text\tdialect\tdomain
+Ka hong pai hi.\tI am coming.\ttedim\tconversation
+Bangci na om hiam?\tHow are you?\ttedim\tconversation
+Leitung tungah ki-itna om tahen.\tLet there be love on earth.\ttedim\treligious
+Ni khat ni khat in.\tOne day at a time.\ttedim\tproverb
+"""
+
+# Sample structure for gatitos.tsv (vocabulary dataset)
+"""
+zomi_word\tenglish_word\tpart_of_speech\texample_zomi\texample_english\tdialect
+inn\thouse\tnoun\tInn sung ka pai hi.\tI am entering the house.\ttedim
+an\trice\tnoun\tAn ka ne hi.\tI am eating rice.\ttedim
+pai\tgo\tverb\tInn ah ka pai hi.\tI am going home.\ttedim
+hong\tcome\tverb\tHong pai in.\tCome here.\ttedim
+"""
+
+# Sample structure for dialects_examples.txt
+"""
+# Zomi Dialect Variations
+## Common Greetings
+
+| English | Tedim | Falam | Hakha | Mizo |
+|---------|-------|-------|-------|------|
+| Hello | Halou | Halou | Halou | Halo |
+| How are you? | Bangci na om hiam? | Nangmah na dam maw? | Dah maw? | Engtin nge i awm? |
+| Thank you | Lungdam ka ko hi | Lungdam kong ko | Ka lawm e | Ka lawm e |
+| Goodbye | Kimu kik ding | Kan mu kik ding | Kan hmu ding | Kan hmu ang |
+
+## Numbers 1-10
+
+| English | Tedim | Falam | Hakha |
+|---------|-------|-------|-------|
+| One | Khat | Khat | Pakhat |
+| Two | Nih | Nih | Pahnih |
+| Three | Thum | Thum | Pathum |
+| Four | Li | Li | Pali |
+| Five | Nga | Nga | Panga |
+| Six | Guk | Guk | Paruk |
+| Seven | Sagih | Sari | Pasarih |
+| Eight | Giat | Riat | Pariet |
+| Nine | Kua | Kua | Pakua |
+| Ten | Sawm | Sawm | Pahra |
+"""
+
+# Python script to create directory structure and sample files
+import os
+
+def create_data_structure():
+    # Create directories if they don't exist
+    directories = [
+        'data/raw',
+        'data/processed',
+        'data/audio',
+        'data/dialects'
+    ]
+    
+    for directory in directories:
+        os.makedirs(directory, exist_ok=True)
+    
+    # Create sample train.tsv
+    train_sample = """zomi_text\tenglish_text\tdialect\tdomain
+Ka hong pai hi.\tI am coming.\ttedim\tconversation
+Bangci na om hiam?\tHow are you?\ttedim\tconversation
+Leitung tungah ki-itna om tahen.\tLet there be love on earth.\ttedim\treligious
+Ni khat ni khat in.\tOne day at a time.\ttedim\tproverb
+Topa'n hong ompih hi.\tGod is with us.\ttedim\treligious
+Nihkhat ciang hong pai in.\tCome tomorrow.\ttedim\tconversation
+An ne khol ding.\tWe will eat rice together.\ttedim\tconversation
+Lai ka sim hi.\tI am reading a book.\ttedim\teducation
+Singkungte lei paikha hi.\tThe bird flew to the tree.\ttedim\tnature
+Khuavak hong tang ta.\tThe day has dawned.\ttedim\tnature"""
+    
+    with open('data/raw/train.tsv', 'w') as f:
+        f.write(train_sample)
+    
+    # Create sample gatitos.tsv
+    gatitos_sample = """zomi_word\tenglish_word\tpart_of_speech\texample_zomi\texample_english\tdialect
+inn\thouse\tnoun\tInn sung ka pai hi.\tI am entering the house.\ttedim
+an\trice\tnoun\tAn ka ne hi.\tI am eating rice.\ttedim
+pai\tgo\tverb\tInn ah ka pai hi.\tI am going home.\ttedim
+hong\tcome\tverb\tHong pai in.\tCome here.\ttedim
+topa\tgod\tnoun\tTopa' min phat in.\tPraise the Lord's name.\ttedim
+lai\tbook\tnoun\tLai ka sim hi.\tI am reading a book.\ttedim
+khua\tvillage\tnoun\tKa khua hoih hi.\tMy village is beautiful.\ttedim
+tui\twater\tnoun\tTui ka dawn hi.\tI am drinking water.\ttedim
+lim\tpicture\tnoun\tLim ka la hi.\tI am taking a picture.\ttedim
+nu\tmother\tnoun\tKa nu inn ah om hi.\tMy mother is at home.\ttedim"""
+    
+    with open('data/raw/gatitos.tsv', 'w') as f:
+        f.write(gatitos_sample)
+    
+    # Create sample dialects_examples.txt
+    dialects_sample = """# Zomi Dialect Variations
+## Common Greetings
+
+| English | Tedim | Falam | Hakha | Mizo |
+|---------|-------|-------|-------|------|
+| Hello | Halou | Halou | Halou | Halo |
+| How are you? | Bangci na om hiam? | Nangmah na dam maw? | Dah maw? | Engtin nge i awm? |
+| Thank you | Lungdam ka ko hi | Lungdam kong ko | Ka lawm e | Ka lawm e |
+| Goodbye | Kimu kik ding | Kan mu kik ding | Kan hmu ding | Kan hmu ang |
+
+## Numbers 1-10
+
+| English | Tedim | Falam | Hakha |
+|---------|-------|-------|-------|
+| One | Khat | Khat | Pakhat |
+| Two | Nih | Nih | Pahnih |
+| Three | Thum | Thum | Pathum |
+| Four | Li | Li | Pali |
+| Five | Nga | Nga | Panga |
+| Six | Guk | Guk | Paruk |
+| Seven | Sagih | Sari | Pasarih |
+| Eight | Giat | Riat | Pariet |
+| Nine | Kua | Kua | Pakua |
+| Ten | Sawm | Sawm | Pahra |"""
+    
+    with open('data/dialects/dialects_examples.txt', 'w') as f:
+        f.write(dialects_sample)
+    
+    print("Data structure created successfully!")
+
+if __name__ == "__main__":
+    create_data_structure()
