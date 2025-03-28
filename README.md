@@ -67,7 +67,8 @@ Welcome to the **[Zomi Language](https://github.com/AMIDHRP/ZomiLanguage)** proj
 
 This repository contains the following files:
 
-/zomi-language/
+```
+zomi-language/
   ├── .github/
   │ ├── ISSUE_TEMPLATE/
   │ │ ├── 🐛 bug_report.md
@@ -103,3 +104,6 @@ This repository contains the following files:
   ├── 📜 LICENSE
   ├── 📄 README.md
   └── 📄 CONTRIBUTING.md
+
+```
+
