@@ -218,7 +218,7 @@ This project is made possible by the contributions of Zomi speakers, linguists, 
 
 Have questions, ideas, or contributions? Reach out to us:
 
-- **Email**: [contribute@zomilanguage.com](mailto:contribute@zomilanguage.com)
+- **Email**: [info@amidhrp.com](mailto:info@amidhrp.com)
 - **Website**: [https://github.com/AMIDHRP/ZomiLanguage](https://github.com/AMIDHRP/ZomiLanguage)
 - **GitHub Issues**: Open an issue in this repository.
 
