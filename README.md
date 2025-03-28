@@ -107,3 +107,23 @@ zomi-language/
 
 ```
 
+---
+
+## 📊 Dataset Overview
+
+Our dataset includes:
+
+- **Zomi Words**: Common words and phrases.
+- **English Translations**: Accurate definitions and explanations.
+- **Example Sentences**: Usage in context.
+- **Audio Pronunciations**: Spoken examples (optional).
+- **Dialect Variants**: Regional differences (e.g., Tedim, Falam).
+
+Sample Entries:
+```tsv
+a	khat
+a little	tawmkhat
+a lot	tamkhopkhat
+abandon	nusia
+abandoned	kinuseta
+above	atungah
