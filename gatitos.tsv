@@ -1,4 +1,3 @@
-This file will contain translations from the GATITOS dataset. The dataset will include 4,000 words and, or phrases.
 ENGLISH  ZOMI
 a khat
 a little	tawmkhat
@@ -400,6 +399,3 @@ amenity	innnuam
 amicable	kihotheihpih, kikholhpihtheih
 amity	kilawmtaakna
 amid	akawmkaalah
-
-This TSV file contains the mappings from English words/phrases to their corresponding Zomi translations. Each line represents a single entry with the source term in the first column and the target translation in the second column. Let me know if you need further assistance or modifications!
-
