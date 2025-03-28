@@ -16,5 +16,5 @@ Follow these steps to set up the Zomi Language Dataset on your local machine.
 ## 📦 Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/zomi-language-dataset.git
+   git clone https://github.com/AMIDHRP/zomilanguage.git
    cd zomi-language-dataset
