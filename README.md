@@ -1,6 +1,6 @@
 # 🌟 Zomi Language: Open-Source Language Resource
 
-Welcome to the **[Zomi Language](https://github.com/AMIDHRP/ZomiLanguage)** project, an open-source initiative to preserve and promote the Zomi language. This repository provides datasets for Zomi-English translations, dialect variations, and evaluation sets, all under the **[CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/)**. Our goal is to support AI/ML training, language preservation, and digital inclusion for the Zomi-speaking community.
+Welcome to the **[Zomi Language](https://github.com/AMIDHRP/ZomiLanguage)** project, an open-source initiative to preserve and promote the Zomi language. This repository provides datasets for Zomi-English translations and evaluation sets, all under the **[CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/)**. Our goal is to support AI/ML training, language preservation, and digital inclusion for the Zomi-speaking community.
 
 🌐 Explore the project website: [https://github.com/AMIDHRP/ZomiLanguage](https://github.com/AMIDHRP/ZomiLanguage)
 
