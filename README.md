@@ -172,7 +172,7 @@ Welcome to the **[Zomi Language](https://github.com/AMIDHRP/ZomiLanguage)** proj
 | 💬 **Discussions** | [Join Discussions](https://github.com/AMIDHRP/ZomiLanguage/discussions) |
 | 📚 **Wiki** | [View Wiki](https://github.com/AMIDHRP/ZomiLanguage/wiki) |
 | 🔐 **Security** | [Report Security Issues](https://github.com/AMIDHRP/ZomiLanguage/security) |
-| 📞 **Contact** | [Email Us](mailto:contribute@zomilanguage.com) |
+| 📞 **Contact** | [Email Us](mailto:info@amidhrp.com) |
 
 ---
 
