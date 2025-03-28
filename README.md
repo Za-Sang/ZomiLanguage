@@ -1,6 +1,3 @@
-# ZomiLanguage
-A dataset and resources for integrating Zomi into Google Translate
-
 # Zomi Language Dataset 🌍
 
 Welcome to the **Zomi Language Dataset** repository! This project aims to create foundational resources for integrating the Zomi language into machine translation systems. The dataset includes translations from English to Zomi and supports training, testing, and evaluation.
@@ -31,7 +28,5 @@ Refer to the [INSTALLATION.md](INSTALLATION.md) file for detailed setup instruct
 We welcome contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines.
 
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
-
-## 🙏 Acknowledgments
-Special thanks to the contributors and the GATITOS dataset creators for making this possible.
+This project is licensed under the [MIT License](LICENSE).  
+For more details, see the [LICENSE](LICENSE) file.
