@@ -66,3 +66,40 @@ Welcome to the **[Zomi Language](https://github.com/AMIDHRP/ZomiLanguage)** proj
 ## 📂 Repository Structure
 
 This repository contains the following files:
+
+zomi-language/
+├── .github/
+│ ├── ISSUE_TEMPLATE/
+│ │ ├── 🐛 bug_report.md
+│ │ ├── ✨ feature_request.md
+│ │ └── 📄 dataset_contribution.md
+│ └── workflows/
+│ ├── ⚙️ ci.yml
+│ └── ⚙️ cd.yml
+├── docs/
+│ ├── 🤝 CODE_OF_CONDUCT.md
+│ ├── 📄 DATASET_DESCRIPTION.md
+│ ├── 🌐 ETHICS.md
+│ ├── 🗺️ ROADMAP.md
+│ ├── 🔐 SECURITY.md
+│ └── 📜 WHITEPAPER.md
+├── data/
+│ ├── 📄 gatitos.tsv
+│ ├── 📄 literature.tsv
+│ ├── 📄 train.tsv
+│ ├── 📄 test.tsv
+│ ├── 🔊 audio/
+│ │ ├── 🔊 khang.mp3
+│ │ └── ? ? gam.mp3
+├── src/
+│ ├── 💻 frontend/
+│ │ ├── 📄 index.html
+│ │ ├── 🎨 styles.css
+│ │ └── 🖥️ script.js
+│ └── 💻 backend/
+│ ├── 🖥️ api.py
+│ ├── 🖥️ database.py
+│ └── 📄 requirements.txt
+├── 📜 LICENSE
+├── 📄 README.md
+└── 📄 CONTRIBUTING.md
