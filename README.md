@@ -127,3 +127,109 @@ abandon	nusia
 abandoned	kinuseta
 above	atungah
 ```
+
+# 🌟 Zomi Language: Open-Source Language Resource
+
+Welcome to the **[Zomi Language](https://github.com/AMIDHRP/ZomiLanguage)** project, an open-source initiative to preserve and promote the Zomi language. This repository provides datasets for Zomi-English translations, dialect variations, and evaluation sets, all under the **[CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/)**. Our goal is to support AI/ML training, language preservation, and digital inclusion for the Zomi-speaking community.
+
+🌐 Explore the project website: [https://github.com/AMIDHRP/ZomiLanguage](https://github.com/AMIDHRP/ZomiLanguage)
+
+---
+
+## 🌈 Zomi Language Development Project
+
+![Language Icon](https://img.icons8.com/color/48/000000/language.png)  
+**Zomi Language Project**
+
+![License Badge](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)  
+![Contributors Badge](https://img.shields.io/github/contributors/AMIDHRP/ZomiLanguage)  
+![Issues Badge](https://img.shields.io/github/issues/AMIDHRP/ZomiLanguage)  
+![Website Badge](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FAMIDHRP%2FZomiLanguage)  
+![Commit Activity Badge](https://img.shields.io/github/commit-activity/m/AMIDHRP/ZomiLanguage)
+
+---
+
+## 📊 Project Statistics
+
+| Metric | Total |
+|--------|-------|
+| Words in Dataset | 1,290+ |
+| Contributors | Growing Daily |
+| GitHub Stars | ⭐️ Support Us! |
+| Website Visits | Tracking on [Website](https://github.com/AMIDHRP/ZomiLanguage) |
+| Open Issues | Check [Issues](https://github.com/AMIDHRP/ZomiLanguage/issues) |
+| Dataset Size | ~500 KB |
+
+---
+
+## 🔗 Quick Links
+
+### Navigation Bar
+
+| Feature | Link |
+|---------|------|
+| 🏠 **Home** | [Project Home](https://github.com/AMIDHRP/ZomiLanguage) |
+| 💬 **Discussions** | [Join Discussions](https://github.com/AMIDHRP/ZomiLanguage/discussions) |
+| 📚 **Wiki** | [View Wiki](https://github.com/AMIDHRP/ZomiLanguage/wiki) |
+| 🔐 **Security** | [Report Security Issues](https://github.com/AMIDHRP/ZomiLanguage/security) |
+| 📞 **Contact** | [Email Us](mailto:contribute@zomilanguage.com) |
+
+---
+
+## 🤝 How to Contribute
+
+We welcome contributions from Zomi speakers, linguists, developers, and enthusiasts! Here’s how you can help:
+
+- **Add Words**: Submit new Zomi words, definitions, and examples via [Google Form](#) or a pull request.
+- **Validate Data**: Review and correct existing entries.
+- **Record Audio**: Contribute audio pronunciations for words.
+- **Translate Texts**: Help digitize Zomi literature and create parallel texts.
+- **Code**: Improve the website, API, or AI tools.
+
+For details, see our [Contribution Guidelines](CONTRIBUTING.md).
+
+---
+
+## 📜 License
+
+- **Data**: Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- **Code**: Licensed under [MIT License](https://opensource.org/licenses/MIT).
+
+By contributing, you agree to license your work under these terms.
+
+---
+
+## 🌟 Ethical Use
+
+We are committed to preserving the Zomi language and culture. Please read our [Ethical Use Policy](docs/ETHICS.md) to understand how this resource should be used responsibly.
+
+---
+
+## 🙏 Acknowledgments
+
+This project is made possible by the contributions of Zomi speakers, linguists, and open-source enthusiasts worldwide. Special thanks to:
+
+- [Zomi Organizations]
+- [Open-Source Contributors]
+
+---
+
+## 📞 Contact Us
+
+Have questions, ideas, or contributions? Reach out to us:
+
+- **Email**: [contribute@zomilanguage.com](mailto:contribute@zomilanguage.com)
+- **Website**: [https://github.com/AMIDHRP/ZomiLanguage](https://github.com/AMIDHRP/ZomiLanguage)
+- **GitHub Issues**: Open an issue in this repository.
+
+---
+
+## 🌱 Support the Project
+
+Your support helps us grow! Consider:
+
+- **Donating**: [Support Us](https://github.com/AMIDHRP/ZomiLanguage)
+- **Sharing**: Spread the word about this project.
+- **Contributing**: Add words, code, financial support, or feedback.
+
+Thank you for joining us in preserving and promoting the Zomi language! Together, we can ensure that Zomi thrives in the age of AI! 🌍✨
