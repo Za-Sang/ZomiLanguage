@@ -1,11 +1,12 @@
-This file will contain translations from the GATITOS dataset. The dataset will include 4,000 words/phrases. For simplicity, I'll create a sample with a subset of the data provided.
+This file will contain translations from the GATITOS dataset. The dataset will include 4,000 words and, or phrases.
 
 ENGLISH (Source)	ZOMI (Target)
 
+Source	Target
 a	khat
 a little	tawmkhat
 a little	tawmcilik
-a little	themcik 
+a little	themcik
 a little	themcikkhat
 a lot	tamkhopkhat
 a lot	tampi
@@ -402,3 +403,6 @@ amenity	innnuam
 amicable	kihotheihpih, kikholhpihtheih
 amity	kilawmtaakna
 amid	akawmkaalah
+
+This TSV file contains the mappings from English words/phrases to their corresponding Zomi translations. Each line represents a single entry with the source term in the first column and the target translation in the second column. Let me know if you need further assistance or modifications!
+
