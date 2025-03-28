@@ -117,7 +117,6 @@ Our dataset includes:
 - **English Translations**: Accurate definitions and explanations.
 - **Example Sentences**: Usage in context.
 - **Audio Pronunciations**: Spoken examples (optional).
-- **Dialect Variants**: Regional differences (e.g., Tedim, Falam).
 
 Sample Entries:
 ```tsv
@@ -127,3 +126,4 @@ a lot	tamkhopkhat
 abandon	nusia
 abandoned	kinuseta
 above	atungah
+```
