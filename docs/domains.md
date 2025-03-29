@@ -1,6 +1,6 @@
-# Content Domains
+# Zomi Language Suggested Domains
 
-The dataset covers 20 domains to ensure comprehensive language coverage:
+The Zomi Language dataset covers 20 domains to ensure comprehensive language coverage:
 
 | Contents                           | Domain Category               | Description                          | Example Topics                                                                 |
 |-----------------------------------------------|-------------------------------|--------------------------------------|-------------------------------------------------------------------------------|
