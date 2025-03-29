@@ -1,4 +1,4 @@
-# 🌐 Ethical Use Policy
+# 🌐 Zomi Language Ethical Use Policy
 
 We are committed to preserving the Zomi language and culture. This resource is intended to promote education, inclusivity, and cultural preservation while fostering respect and responsibility among its users. Please read the following ethical guidelines carefully to ensure that this resource is used responsibly.
 
