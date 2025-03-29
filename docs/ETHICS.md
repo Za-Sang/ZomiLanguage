@@ -18,7 +18,7 @@ The Zomi language and its associated dialects are an integral part of the Zomi p
 
 This project is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and [MIT License](https://opensource.org/licenses/MIT). When using data from this repository:
 
-- **Provide Attribution**: Always credit the Zomi Dictionary project as the source of the data.
+- **Provide Attribution**: Always credit the Zomi Language project as the source of the data.
 - **Share Alike**: If you modify or distribute the dataset, ensure that derivative works are shared under the same license terms.
 
 ---
@@ -60,7 +60,7 @@ To protect the privacy and security of all stakeholders:
 
 We hold ourselves and our users accountable for upholding these ethical guidelines. If you encounter misuse or violations of this policy:
 
-- **Report Issues**: Open an issue on the [GitHub repository](https://github.com/AMIDHRP/ZomiLanguage)/issues) to report concerns.
+- **Report Issues**: Open an issue on the [GitHub repository](https://github.com/AMIDHRP/ZomiLanguage/issues) to report concerns.
 - **Contact Us**: Reach out directly via email at [info@amidhrp.com](mailto:info@amidhrp.com).
 
 ---
