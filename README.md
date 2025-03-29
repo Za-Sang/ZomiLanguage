@@ -11,11 +11,7 @@ Welcome to the **[Zomi Language](https://github.com/AMIDHRP/ZomiLanguage)** proj
 ![Language Icon](https://img.icons8.com/color/48/000000/language.png)  
 **Zomi Language Project**
 
-![License Badge](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)  
-![Contributors Badge](https://img.shields.io/github/contributors/AMIDHRP/ZomiLanguage)  
-![Issues Badge](https://img.shields.io/github/issues/AMIDHRP/ZomiLanguage)  
-![Website Badge](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FAMIDHRP%2FZomiLanguage)  
-![Commit Activity Badge](https://img.shields.io/github/commit-activity/m/AMIDHRP/ZomiLanguage)
+![License Badge](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg) [Contributors Badge](https://img.shields.io/github/contributors/AMIDHRP/ZomiLanguage) ![Issues Badge](https://img.shields.io/github/issues/AMIDHRP/ZomiLanguage) ![Website Badge](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FAMIDHRP%2FZomiLanguage) ![Commit Activity Badge](https://img.shields.io/github/commit-activity/m/AMIDHRP/ZomiLanguage)
 
 ---
 
