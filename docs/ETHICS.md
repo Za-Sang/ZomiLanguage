@@ -71,7 +71,7 @@ This project would not be possible without the dedication of Zomi speakers, ling
 
 ---
 
-## 🙏 Thank You
+## 🙏 Thank You : Lung Dam!
 
 Thank you for respecting these ethical guidelines and for contributing to the preservation and promotion of the Zomi language. Together, we can ensure that the Zomi language thrives in the digital age and continues to inspire future generations.
 
