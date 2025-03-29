@@ -124,38 +124,6 @@ abandoned	kinuseta
 above	atungah
 ```
 
-# 🌟 Zomi Language: Open-Source Language Resource
-
-Welcome to the **[Zomi Language](https://github.com/AMIDHRP/ZomiLanguage)** project, an open-source initiative to preserve and promote the Zomi language. This repository provides datasets for Zomi-English translations, dialect variations, and evaluation sets, all under the **[CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/)**. Our goal is to support AI/ML training, language preservation, and digital inclusion for the Zomi-speaking community.
-
-🌐 Explore the project website: [https://github.com/AMIDHRP/ZomiLanguage](https://github.com/AMIDHRP/ZomiLanguage)
-
----
-
-## 🌈 Zomi Language Development Project
-
-![Language Icon](https://img.icons8.com/color/48/000000/language.png)  
-**Zomi Language Project**
-
-![License Badge](https://img.shields.io/badge/License-CC_BY_4.0-blue.svg)  
-![Contributors Badge](https://img.shields.io/github/contributors/AMIDHRP/ZomiLanguage)  
-![Issues Badge](https://img.shields.io/github/issues/AMIDHRP/ZomiLanguage)  
-![Website Badge](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FAMIDHRP%2FZomiLanguage)  
-![Commit Activity Badge](https://img.shields.io/github/commit-activity/m/AMIDHRP/ZomiLanguage)
-
----
-
-## 📊 Project Statistics
-
-| Metric | Total |
-|--------|-------|
-| Words in Dataset | 1,290+ |
-| Contributors | Growing Daily |
-| GitHub Stars | ⭐️ Support Us! |
-| Website Visits | Tracking on [Website](https://github.com/AMIDHRP/ZomiLanguage) |
-| Open Issues | Check [Issues](https://github.com/AMIDHRP/ZomiLanguage/issues) |
-| Dataset Size | ~500 KB |
-
 ---
 
 ## 🔗 Quick Links
@@ -207,6 +175,7 @@ This project is made possible by the contributions of Zomi speakers, linguists, 
 
 - [Zomi Organizations]
 - [Open-Source Contributors]
+- [ZGTC]
 
 ---
 
