@@ -116,17 +116,17 @@ Our dataset includes:
 
 Sample Entries:
 ```tsv
-abandon	nusia
-abandon	paisan
-abandon	zatloh
-abandoned	kinuseta
-abandoned	kinuse-khinta
-abandoned	nusiatsa
-abba	pa, papa,
-abbrevition	tomlawhna
-abbrevition	tomkaihna
-abbrevition	tomlaakna
-abdoman	gilpi
+abandon  nusia
+abandon  paisan
+abandon  zatloh
+abandoned  kinuseta
+abandoned  kinuse-khinta
+abandoned  nusiatsa
+abba  pa, papa,
+abbrevition  tomlawhna
+abbrevition  tomkaihna
+abbrevition  tomlaakna
+abdoman  gilpi
 ```
 
 ---
