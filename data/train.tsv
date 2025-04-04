@@ -1,22 +1,29 @@
-a	khat
+a	khat, malkhat
 a little	tawmkhat
+a little  tawmno
+a little  tawmcik
 a little	tawmcilik
-a little	themcik
+a little	themcik,
+a little  themkhat
 a little	themcikkhat
 a lot	tamkhopkhat
 a lot	tampi
 a lot of	tampitak
 a lot of	tampipi
+aardvard  savokphual
+abacus  gatangkaihna, Sente' zat malsimna, liangko
 abandon	nusia
 abandon	paisan
 abandon	zatloh
-abandoned	kinuseta
+abandoned	kinusia
 abandoned	kinuse-khinta
 abandoned	nusiatsa
+abate  theng, thengsak, daisak
+abate  bei, theu, heusak, maisiangsak semsem
 abba	pa, papa,
-abbrevition	tomlawhna
-abbrevition	tomkaihna
-abbrevition	tomlaakna
+abbreviate  tomkaih, tomlawh
+abbrevition	tomkaihna, tomlawhna
+abbreviation	tomlakna
 abdoman	gilpi (lai leh diipmawn kikaalteng)
 abdomen	gilpikuamteng
 aberrant	lampial
@@ -27,16 +34,16 @@ abhor	mudah
 abhor	hua
 abhor	ning
 abhorence	kihna
-abhorence	zaakdahna
+abhorence	zakdahna
 abhorence	muhdahna
 abhorence	huatna
 abhorence	ninna (ningna hilo)
 abhorent	kihhuai
-abhorent	zaakdahhuai
+abhorent	zakdahhuai
 abhorent	muhdahhuai
 abhorent	huathuai
 abhorent	ninhuai (ninghuai hilo)
-abide	omkhawm
+abide	omkhawm, lengkhawl, khawlkhawm
 abide	leenkip
 abide	thumang
 ability	hihtheihna
@@ -45,7 +52,7 @@ abject	zawngkhaal
 abjection	cihmawh-gentheihna
 abjection	zawngkhaalna
 abjectness	zawngkhaalna
-abjure	kisiikciamna
+abjure	kisikciamna
 ablate	heumang
 ablate	pulhsiang
 ablate	tolsiang
@@ -54,7 +61,7 @@ ablaz	kuangluahluah
 ablaz	ngaklahmahmah
 able	hihthei
 abloom	paakpalh-laitak
-abnormal	mibanglo
+abnormal	mibanglo, matkhai, acinglo
 abnormal	gualbaanlo
 aboard	tuang
 abolish	phiat
@@ -86,33 +93,45 @@ absent	kihello
 absent	thumang lo
 absent-minded	phawkkhalo
 absolutely	kitangaihtakin, adiktakin, siangtakin
-absorb	huup, dawn
-absorb	tawpkang
+absorb	hup, dawn
+absorb	tawp, tawpkang
 absorb	kigawm
-abstain	kideek-kidaamna
-abstract	kilawngtheilo
-abstract	theihhaksa
+abstain  kinawlkhin, pelh
+abstain  kideek-kidaam
+abstract	kilawngtheilo, lungsim sungah om
+abstract	theihnabek
 abstract	ngaihsutna
-absurd	kilawm-kituaklo
-absurd	haivai
+absurd	uphuai vetlo, nuihzakhuai lel, uphuai keilua
+absurd  kilawm-kituaklo
+absurd	haivailua, apiangtheilo
+absurdity  haivai, pianglo
 abundance	kicinna
 abundance	kiningcinna
 abundant	kiningcing
 abundant	kicing
-abuse	zanghkhial
-abuse	kheem
+abuse	zanghkhial, siasak
+abuse	khem, semsia, lungsim takpitawh susia
+abusive  simmawhbawl
 abut	kizom, kimat, kipeh, kigamgi
 abuzz	phevulvul-phevalval (adj.)
 academy	siamsinna,saanglai-sinna
 accelerate	haatsak, kinawhsak
-accent	awgin
+accent	awkaih
+accent  awsuah, hamdan
+accent  awgin, awginzia, awgingz
 accent	gingsak
-accept	pom, saang, lungkim, thukim
-acceptance	pomna, saanna, lungkimna, thukimna
-access	luutna
+accept	pom
+accept  sang
+accept  lungkim, thukim
+acceptable  santheih, cihtheih, simphat, hoihsak mai vou
+acceptance	pomna, sanna, lungkimna, thukimna
+access	phalna-ngah
+access  lutna
 access	vanaihna
-accident	tuahsiatna
-accident	dongtuahna
+accident	phulkha, kiphukha, kitaih, kiphulkha
+accident  tuahsiatna, kitaih, hihkhapak
+accident	tuahkhat-vat, upmawh loh tuak, gin neih loh a tuak kha
+accidently  gelkholhloh, upmawh loh
 accident prone	tuahsiat-theihdeuhna kuam
 accommodation	teenna
 accommodation	luahna
@@ -148,18 +167,22 @@ acquired	lakhinta, ngahkhinta, tangkhinta
 acquisition	laakna, tanna, ngahna
 acquit	khahkhia
 acquitance	vaivenna, penkhiatna,suahtaakna
-across	kaantan
-across	khengg
-act	gamta
+across	galkhat ah, kantan
+across	kheng, galkah
+across  alang lamah
+act	gamta, gamtang
+Act  thukhun, zuiding, sepzia
 act	hih
-act	seem
+act	sem
 act	bawl
-acting	gamtat-kampau-luheek
+act sepzia bawlzia
+acting	gamtat
 action	gamtatna, sepna-bawlna
 action	gawtna
-activate	kizensak, thakhauhsak
-active	gamtaang/kizen
-active	thanuam
+activate	kizensak, hongkhia, nasemsak, thakhauhsak
+active	gamtang, kizen
+active	lawp
+active  thanuam
 actively	lawptakin, kizentakin, thanuamtakin
 activities	gamtat-kampau-luheeknate
 activity	nnasep-silbawlna
@@ -852,19 +875,19 @@ agile	manlaang
 agile	kin, kinawh
 agitate	kiphin, lung
 Source	Target
-childish	naupanvai
-chill	huihvaak
+childish	naupangvai
+chill	votsak, huihvaak
 chill	vaaksak
-chin	kha
+chin	kha, khaguh
 chip	thuam
 chip	sikthuam
-chisel	leiseek-tuahsiamtu
-choice	kivalaak
-choir	vaipawl
-choke	tuam
-choose	kivalaak
-chop	tan
-chop	vot
+chisel	siktul, leiseek-tuahsiamtu
+choice	telltheih, kivalaak
+choir  lapawl, vaipawl
+choke  gawlhui khak, kikhak sak, bingsak 
+choose	tel, kivalaak
+chop	tan, nensak, sem, semnen
+chop	git, bot, totan, lopa khokhia, kho
 chop	votekhia
 christianity	christiani lamsang
 christmas	suahni khangzaang
